@@ -6,7 +6,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 ## Contributors
 
-// - [Adhi Ariyadi](https://github.com/adhiariyadi)
+<!-- - [Adhi Ariyadi](https://github.com/adhiariyadi) -->
 
 ## How to contribute
 
