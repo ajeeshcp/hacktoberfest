@@ -6,9 +6,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 ## Contributors
 
-- [Adhi Ariyadi](https://github.com/adhiariyadi)
-- [Kidung Fajar Prabowo](https://github.com/kfajarbowo)
 - [Yoni Widhi](https://github.com/NichiNect)
+- [Kidung Fajar Prabowo](https://github.com/kfajarbowo)
 - [Sven Sevon](https://github.com/5E7EN)
 
 
