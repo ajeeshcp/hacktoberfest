@@ -8,6 +8,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 - [Adhi Ariyadi](https://github.com/adhiariyadi)
 - [Kidung Fajar Prabowo](https://github.com/kfajarbowo)
+- [Sven Sevon](https://github.com/5E7EN)
 
 
 ## How to contribute
@@ -17,5 +18,4 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - Add your name in readme.md
 - Push
 - Pull request
-- And i'll to accept your pull request
-
+- Accepted!
